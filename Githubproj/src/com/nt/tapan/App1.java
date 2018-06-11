@@ -6,6 +6,10 @@ public class App1 {
 		for( int i=0;i<10;i++){
 			System.out.println(i);
 		}
-	}
+	
 //tapan kumar123
+	WishGenerator gen=new WishGenerator();
+	
+	System.out.println("Msg:::"+gen.generateWishMessage("Raja"));
+}
 }
