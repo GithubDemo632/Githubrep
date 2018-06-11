@@ -7,7 +7,7 @@ public class App1 {
 			System.out.println(i);
 		}
 	
-//tapan kumar123
+//tapan kumar123123
 	WishGenerator gen=new WishGenerator();
 	
 	System.out.println("Msg:::"+gen.generateWishMessage("Raja"));
